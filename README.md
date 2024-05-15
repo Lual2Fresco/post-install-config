@@ -31,7 +31,7 @@ This repository is a continuation of the previous project, focusing on the confi
 
   Below are the images illustrating the process of creating new Agents within osTicket.
 <p>
-<img src="https://imgur.com/4jFeBlX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/tCfTqx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hIjfZWo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/tCfTqx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -44,7 +44,7 @@ Accessing features within osTicket follows a consistent process, akin to creatin
 <br />
 
 <p>
-<img src="https://imgur.com/3xzFI6p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CLV90yC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/4asFyof.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -57,7 +57,7 @@ Accessing features within osTicket follows a consistent process, akin to creatin
 <br />
 
 <p>
-<img src="https://imgur.com/XwSA6zH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/d183zfC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mTg2bFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/sCXIBtU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 To create Users, it's necessary to switch from the Admin Panel to the Agent Panel.
@@ -69,7 +69,7 @@ To create Users, it's necessary to switch from the Admin Panel to the Agent Pane
 <br />
 
 <p>
-<img src="https://imgur.com/V6cko1I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://imgur.com/EGU0rUu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JbHVvOM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/pYd3SdH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/6JHVy7p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
